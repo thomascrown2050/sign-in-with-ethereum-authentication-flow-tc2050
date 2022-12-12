@@ -1,6 +1,6 @@
 # Sign in with Ethereum authentication flow
 
-A basic example of how to create an authentication flow using Next.js, public key encryption, and an Ethereum or EVM compatible wallet that works on both desktop and mobile sites. Woot.
+A basic example of how to create an authentication flow using Next.js, public key encryption, and an Ethereum or EVM compatible wallet that works on both desktop and mobile sites. Woot3.
 
 This project was inspired by [Rahat Chowdhury's](https://github.com/Rahat-ch) [ETH SSO workshop](https://github.com/Rahat-ch/eth-sso-workshop/tree/solution)
 
